@@ -2,3 +2,4 @@
 echo '<p> ola kala sto telos me tin omada mas yolo olo </p>' >../public_html/Team_8.html
 echo '<p> na kaei na kaei to ...... </p>' >../public_html/Team_8.html
 echo '<p> to ekana kai ego youpiiiiii </p>' >>../public_html/Team_8.html
+echo '<p> to ekena kai ego!!! </p>' >>>../public_html/Team_8.html
